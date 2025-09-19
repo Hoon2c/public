@@ -3024,10 +3024,10 @@
       "skillName": "번개 도관",
       "isExclude": false
     },
-    {
+	{
       "id": 100001,
-      "skillKey": "팬텀페인",
-      "skillName": "번개 도관",
+      "skillKey": "Mercenary_PhantomPain",
+      "skillName": "팬텀페인",
       "isExclude": false
     }
   ]
