@@ -2655,7 +2655,7 @@
     {
       "id": 878,
       "skillKey": "257788101",
-      "skillName": "힐러스킬(확인안됨)",
+      "skillName": "힐러머시기",
       "isExclude": false
     },
     {
@@ -3024,10 +3024,22 @@
       "skillName": "번개 도관",
       "isExclude": false
     },
-	{
-      "id": 90001,
-      "skillKey": "Mercenary_PhantomPain",
-      "skillName": "팬텀페인",
+    {
+      "id": 941,
+      "skillKey": "352908878",
+      "skillName": "플래쉬오버",
+      "isExclude": false
+    },
+    {
+      "id": 942,
+      "skillKey": "2102620894",
+      "skillName": "플레임 캐논",
+      "isExclude": false
+    },
+    {
+      "id": 943,
+      "skillKey": "1033051081",
+      "skillName": "크로스 파이어",
       "isExclude": false
     }
   ]
