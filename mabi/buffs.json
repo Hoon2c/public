@@ -1,1 +1,1052 @@
-{"data":[{"id":97,"buffId":396682298,"buffName":"(전설)강렬함","type":"RUNE","category":"앰블럼","isExclude":false},{"id":98,"buffId":1938168255,"buffName":"(전설)냉혹함","type":"RUNE","category":"앰블럼","isExclude":false},{"id":99,"buffId":1704087716,"buffName":"(전설)여신의 권능","type":"RUNE","category":"앰블럼","isExclude":false},{"id":100,"buffId":775737101,"buffName":"(전설)여신의 가호","type":"RUNE","category":"앰블럼","isExclude":false},{"id":101,"buffId":676280324,"buffName":"(전설)바위 거인","type":"RUNE","category":"방어구","isExclude":false},{"id":102,"buffId":1965598237,"buffName":"(전설)바위 거인-강화","type":"RUNE","category":"방어구","isExclude":false},{"id":103,"buffId":242198442,"buffName":"(전설)마나격류","type":"RUNE","category":"방어구","isExclude":false},{"id":104,"buffId":553583181,"buffName":"(전설)비열한 일격","type":"RUNE","category":"방어구","isExclude":false},{"id":105,"buffId":1264519636,"buffName":"(전설)붉은 맹약","type":"RUNE","category":"방어구","isExclude":false},{"id":106,"buffId":1809351828,"buffName":"(전설)저격","type":"RUNE","category":"방어구","isExclude":false},{"id":107,"buffId":111111111,"buffName":"(전설)깨달음","type":"RUNE","category":"방어구","isExclude":false},{"id":108,"buffId":980987121,"buffName":"(전설)신성한 수양","type":"RUNE","category":"방어구","isExclude":false},{"id":109,"buffId":1030401070,"buffName":"(전설)원소술사","type":"RUNE","category":"방어구","isExclude":false},{"id":110,"buffId":1336237190,"buffName":"(전설)공명하는 수정","type":"RUNE","category":"방어구","isExclude":false},{"id":111,"buffId":255594624,"buffName":"(전설)평원 방랑자","type":"RUNE","category":"방어구","isExclude":false},{"id":112,"buffId":2000676383,"buffName":"(전설)엄습하는 그림자","type":"RUNE","category":"방어구","isExclude":false},{"id":113,"buffId":1820178912,"buffName":"(전설)거센 소나기","type":"RUNE","category":"방어구","isExclude":false},{"id":114,"buffId":383592687,"buffName":"(전설)초자연","type":"RUNE","category":"방어구","isExclude":false},{"id":115,"buffId":360795271,"buffName":"(전설)쇄빙","type":"RUNE","category":"방어구","isExclude":false},{"id":116,"buffId":271626813,"buffName":"(전설)횃불","type":"RUNE","category":"방어구","isExclude":false},{"id":117,"buffId":49378514,"buffName":"(에픽)전술가","type":"RUNE","category":"방어구","isExclude":false},{"id":118,"buffId":1353321856,"buffName":"(에픽)초자연","type":"RUNE","category":"방어구","isExclude":false},{"id":119,"buffId":1683547438,"buffName":"(전설)눈먼분노","type":"RUNE","category":"무기","isExclude":false},{"id":120,"buffId":1958772681,"buffName":"(전설)영혼수확자","type":"RUNE","category":"무기","isExclude":false},{"id":121,"buffId":1488942561,"buffName":"(에픽)연격-강타","type":"RUNE","category":"무기","isExclude":false},{"id":122,"buffId":1878652407,"buffName":"(에픽)연격-연타","type":"RUNE","category":"무기","isExclude":false},{"id":123,"buffId":6770562,"buffName":"(대검)맹공","type":"JOB","category":"대검","isExclude":false},{"id":124,"buffId":432584033,"buffName":"(대검)보복","type":"JOB","category":"대검","isExclude":false},{"id":125,"buffId":1870274663,"buffName":"(대검)불복","type":"JOB","category":"대검","isExclude":false},{"id":126,"buffId":522689739,"buffName":"(대검)탄력","type":"JOB","category":"대검","isExclude":false},{"id":127,"buffId":738356781,"buffName":"(대검)심찌","type":"JOB","category":"대검","isExclude":false},{"id":128,"buffId":1689396493,"buffName":"(검술)집중","type":"JOB","category":"검술","isExclude":false},{"id":129,"buffId":82339440,"buffName":"(검술)연계 검술","type":"JOB","category":"검술","isExclude":false},{"id":130,"buffId":1302701928,"buffName":"(검술)날카로운 눈","type":"JOB","category":"검술","isExclude":false},{"id":131,"buffId":226458112,"buffName":"(법사)아케인파워-빙결","type":"JOB","category":"법사","isExclude":false},{"id":132,"buffId":349174146,"buffName":"(화법)버닝소울 1단계","type":"JOB","category":"화법","isExclude":false},{"id":133,"buffId":66076860,"buffName":"(화법)버닝소울 2단계","type":"JOB","category":"화법","isExclude":false},{"id":134,"buffId":825083561,"buffName":"(화법)버닝소울 3단계","type":"JOB","category":"화법","isExclude":false},{"id":135,"buffId":1407435667,"buffName":"(빙결)베일 오브 윈터","type":"JOB","category":"빙결","isExclude":false},{"id":136,"buffId":1712968343,"buffName":"(빙결)흩날리는 서리","type":"JOB","category":"빙결","isExclude":false},{"id":137,"buffId":728846727,"buffName":"(전격)과충전 스택","type":"JOB","category":"전격","isExclude":false},{"id":138,"buffId":213733484,"buffName":"(힐러)오토쉴드","type":"JOB","category":"힐러","isExclude":false},{"id":139,"buffId":800702752,"buffName":"(힐러)바이탈 부스트","type":"JOB","category":"힐러","isExclude":false},{"id":140,"buffId":2113102204,"buffName":"(수도)빛의 진언","type":"JOB","category":"수도","isExclude":false},{"id":141,"buffId":8323211655,"buffName":"(수도)힘의 진언","type":"JOB","category":"수도","isExclude":false},{"id":142,"buffId":1514527476,"buffName":"(수도)정화의 진언","type":"JOB","category":"수도","isExclude":false},{"id":143,"buffId":334555191,"buffName":"(수도)평온의 진언","type":"JOB","category":"수도","isExclude":false},{"id":144,"buffId":639927731,"buffName":"(수도)깨달음","type":"JOB","category":"수도","isExclude":false},{"id":145,"buffId":1674275784,"buffName":"(석궁)속도증가","type":"JOB","category":"석궁","isExclude":false},{"id":146,"buffId":771555707,"buffName":"(석궁)감전","type":"JOB","category":"석궁","isExclude":false},{"id":147,"buffId":1804215912,"buffName":"(석궁)드라이빙 포스","type":"JOB","category":"석궁","isExclude":false},{"id":148,"buffId":1392070812,"buffName":"(장궁)저격술","type":"JOB","category":"장궁","isExclude":false},{"id":149,"buffId":1822308306,"buffName":"(악사)기분좋아","type":"JOB","category":"악사","isExclude":false},{"id":150,"buffId":1419327883,"buffName":"(악사)기분나빠","type":"JOB","category":"악사","isExclude":false},{"id":151,"buffId":833670126,"buffName":"(악사)무드유지","type":"JOB","category":"악사","isExclude":false},{"id":152,"buffId":1986276347,"buffName":"(악사)크레센도(공증)","type":"JOB","category":"악사","isExclude":false},{"id":153,"buffId":636643435,"buffName":"(악사)에코","type":"JOB","category":"악사","isExclude":false},{"id":154,"buffId":1835605660,"buffName":"(악사)모데라토","type":"JOB","category":"악사","isExclude":false},{"id":155,"buffId":1392602299,"buffName":"(악사)크레센도(연주강화)","type":"JOB","category":"악사","isExclude":false},{"id":156,"buffId":1513880920,"buffName":"(도적)중독","type":"JOB","category":"도적","isExclude":false},{"id":157,"buffId":1121609075,"buffName":"(도적)스니크 어택","type":"JOB","category":"도적","isExclude":false},{"id":158,"buffId":1795978473,"buffName":"(듀블)스플릿 슬래시","type":"JOB","category":"듀블","isExclude":false},{"id":159,"buffId":607218993,"buffName":"(듀블)활기","type":"JOB","category":"듀블","isExclude":false},{"id":160,"buffId":1154048891,"buffName":"(듀블)하울링 템페스트","type":"JOB","category":"듀블","isExclude":false},{"id":161,"buffId":2144204919,"buffName":"프로텍션","type":"SYNERGY","category":null,"isExclude":false},{"id":162,"buffId":1026983178,"buffName":"바이탈 부스트","type":"SYNERGY","category":null,"isExclude":false},{"id":163,"buffId":905459140,"buffName":"전사의 용기","type":"SYNERGY","category":null,"isExclude":false},{"id":164,"buffId":1431861317,"buffName":"도적의 머지","type":"SYNERGY","category":null,"isExclude":false},{"id":165,"buffId":758766087,"buffName":"(어려움)파멸의 징조","type":"ENEMY","category":"어려움","isExclude":false},{"id":166,"buffId":1993441463,"buffName":"(매어)파멸의 징조","type":"ENEMY","category":"매어","isExclude":false},{"id":167,"buffId":2134346801,"buffName":"(매어)녹아내린 갑옷","type":"ENEMY","category":"매어","isExclude":false},{"id":168,"buffId":439731380,"buffName":"야무진 응원","type":"PET","category":"펫","isExclude":false},{"id":169,"buffId":651658545,"buffName":"치명타의 축복","type":"PET","category":"펫","isExclude":false},{"id":170,"buffId":168942269,"buffName":"연타 강화의 축복","type":"PET","category":"펫","isExclude":false},{"id":171,"buffId":444502693,"buffName":"급소 회피의 축복","type":"PET","category":"펫","isExclude":false},{"id":172,"buffId":323735547,"buffName":"(전설)저격-대기","type":"ETC","category":null,"isExclude":true},{"id":173,"buffId":363643485,"buffName":"(악사)3: 2악장 연계","type":"ETC","category":null,"isExclude":true},{"id":174,"buffId":496084505,"buffName":"(악사)3: 3악장 연계","type":"ETC","category":null,"isExclude":true},{"id":175,"buffId":1468122837,"buffName":"(악사)세레나데(시전중)","type":"ETC","category":null,"isExclude":true},{"id":176,"buffId":1718941246,"buffName":"(대검)앞자세","type":"ETC","category":null,"isExclude":true},{"id":177,"buffId":1047605714,"buffName":"(대검)자원1","type":"ETC","category":null,"isExclude":true},{"id":178,"buffId":1166132899,"buffName":"(대검)자원2","type":"ETC","category":null,"isExclude":true},{"id":179,"buffId":750909214,"buffName":"(대검)자원3","type":"ETC","category":null,"isExclude":true},{"id":180,"buffId":545818869,"buffName":"(화법)열기 50퍼 미만","type":"ETC","category":null,"isExclude":true},{"id":181,"buffId":1960623825,"buffName":"(화법)열기 50퍼 이상","type":"ETC","category":null,"isExclude":true},{"id":182,"buffId":66533560,"buffName":"(화법)3스?","type":"ETC","category":null,"isExclude":true},{"id":183,"buffId":1442950753,"buffName":"(화법)1스 관련","type":"ETC","category":null,"isExclude":true},{"id":184,"buffId":1177473728,"buffName":"(화법)4스 관련","type":"ETC","category":null,"isExclude":true},{"id":185,"buffId":132877504,"buffName":"(화법)6스 관련","type":"ETC","category":null,"isExclude":true},{"id":186,"buffId":2111955683,"buffName":"(화법)6스 관련","type":"ETC","category":null,"isExclude":true},{"id":187,"buffId":1919350846,"buffName":"(화법)불기둥 룬 관련","type":"ETC","category":null,"isExclude":true},{"id":188,"buffId":1214749013,"buffName":"(화법)패스브?","type":"ETC","category":null,"isExclude":true},{"id":189,"buffId":2062730019,"buffName":"(화법)패스브?","type":"ETC","category":null,"isExclude":true},{"id":190,"buffId":2069643387,"buffName":"(화법)패스브 도트딜?","type":"ETC","category":null,"isExclude":true},{"id":191,"buffId":1658873753,"buffName":"(궁수)바람결","type":"JOB","category":"궁수","isExclude":false},{"id":192,"buffId":1028557856,"buffName":"빠른 스킬의 축복","type":"PET","category":"펫","isExclude":false},{"id":193,"buffId":818609909,"buffName":"추가타의 축복","type":"PET","category":"펫","isExclude":false},{"id":194,"buffId":673296279,"buffName":"브레이크 하울링SS","type":"PET","category":"펫","isExclude":false},{"id":195,"buffId":1643216896,"buffName":"쾌속의 날갯짓","type":"PET","category":"펫","isExclude":false},{"id":196,"buffId":1686016397,"buffName":"강타 강화의 축복","type":"PET","category":"펫","isExclude":false},{"id":198,"buffId":1716214915,"buffName":"(전설)마법탐구가","type":"RUNE","category":"무기","isExclude":false},{"id":199,"buffId":1340218492,"buffName":"(전설)타오르는심장","type":"RUNE","category":"방어구","isExclude":false},{"id":200,"buffId":937658644,"buffName":"(대검)필사의각오","type":"JOB","category":"대검","isExclude":false},{"id":201,"buffId":322764292,"buffName":"(격가)연계공격","type":"JOB","category":"격가","isExclude":false},{"id":202,"buffId":1706800793,"buffName":"(유니크)타락한생명의고리","type":"RUNE","category":"장신구","isExclude":false},{"id":203,"buffId":1478677912,"buffName":"(법사)아케인파워-감전","type":"JOB","category":"법사","isExclude":false},{"id":205,"buffId":1959712337,"buffName":"(법사)아케인파워-화상","type":"JOB","category":"법사","isExclude":false},{"id":206,"buffId":162172504,"buffName":"(법사)마나실드-피해감소","type":"JOB","category":"법사","isExclude":false},{"id":207,"buffId":808385604,"buffName":"(법사)마나실드-쿨감/마나회복","type":"JOB","category":"법사","isExclude":false},{"id":208,"buffId":374032021,"buffName":"(힐러)라이프링크","type":"JOB","category":"힐러","isExclude":false},{"id":209,"buffId":701568405,"buffName":"(힐러)생명의 고동(물결)","type":"JOB","category":"힐러","isExclude":false},{"id":210,"buffId":307080858,"buffName":"(힐러)라이프링크-서약","type":"JOB","category":"힐러","isExclude":false},{"id":211,"buffId":778369761,"buffName":"(사제)서먼링커","type":"JOB","category":"사제","isExclude":false},{"id":212,"buffId":1555612653,"buffName":"콤보 강화의 축복","type":"PET","category":"펫","isExclude":false},{"id":213,"buffId":546977347,"buffName":"광역 강화의 축복","type":"PET","category":"펫","isExclude":false},{"id":214,"buffId":1104541744,"buffName":"(유니크)비틀린생명의고리","type":"RUNE","category":"장신구","isExclude":false},{"id":215,"buffId":836306853,"buffName":"강타 강화 비약","type":"ETC","category":"물약","isExclude":false},{"id":216,"buffId":476273610,"buffName":"연타 강화 비약","type":"ETC","category":"물약","isExclude":false},{"id":217,"buffId":442802449,"buffName":"혼합 강화 비약(산사태)","type":"ETC","category":"물약","isExclude":false},{"id":218,"buffId":297847065,"buffName":"상급 강타 강화 비약","type":"ETC","category":"물약","isExclude":false},{"id":219,"buffId":1590592632,"buffName":"상급 연타 강화 비약","type":"ETC","category":"물약","isExclude":false},{"id":220,"buffId":1197217502,"buffName":"상급 혼합 강화 비약(산사태)","type":"ETC","category":"물약","isExclude":false},{"id":221,"buffId":362424410,"buffName":"강화 치명타 물약","type":"ETC","category":"물약","isExclude":false},{"id":222,"buffId":442624048,"buffName":"치명타 비약","type":"ETC","category":"물약","isExclude":false},{"id":223,"buffId":1975431164,"buffName":"피해 감소 비약","type":"ETC","category":"물약","isExclude":false},{"id":224,"buffId":527407769,"buffName":"(전사)복수심","type":"JOB","category":"전사","isExclude":false},{"id":225,"buffId":1013251401,"buffName":"(전사)아마란스킥 온","type":"JOB","category":"전사","isExclude":false},{"id":226,"buffId":1605163504,"buffName":"(전사)기회 포착","type":"JOB","category":"전사","isExclude":false},{"id":227,"buffId":2104567939,"buffName":"강타 강화의 축복(튼튼)","type":"PET","category":"펫","isExclude":false},{"id":228,"buffId":1170411770,"buffName":"(유니크)리시타의 실전용 전투화","type":"RUNE","category":"방어구","isExclude":false},{"id":229,"buffId":1006655172,"buffName":"(전설)고요한 바람","type":"RUNE","category":"방어구","isExclude":false}]}
+{
+  "data": [
+    {
+      "id": 97,
+      "buffId": 396682298,
+      "buffName": "(전설)강렬함",
+      "type": "RUNE",
+      "category": "앰블럼",
+      "isExclude": false
+    },
+    {
+      "id": 98,
+      "buffId": 1938168255,
+      "buffName": "(전설)냉혹함",
+      "type": "RUNE",
+      "category": "앰블럼",
+      "isExclude": false
+    },
+    {
+      "id": 99,
+      "buffId": 1704087716,
+      "buffName": "(전설)여신의 권능",
+      "type": "RUNE",
+      "category": "앰블럼",
+      "isExclude": false
+    },
+    {
+      "id": 100,
+      "buffId": 775737101,
+      "buffName": "(전설)여신의 가호",
+      "type": "RUNE",
+      "category": "앰블럼",
+      "isExclude": false
+    },
+    {
+      "id": 101,
+      "buffId": 676280324,
+      "buffName": "(전설)바위 거인",
+      "type": "RUNE",
+      "category": "방어구",
+      "isExclude": false
+    },
+    {
+      "id": 102,
+      "buffId": 1965598237,
+      "buffName": "(전설)바위 거인-강화",
+      "type": "RUNE",
+      "category": "방어구",
+      "isExclude": false
+    },
+    {
+      "id": 103,
+      "buffId": 242198442,
+      "buffName": "(전설)마나격류",
+      "type": "RUNE",
+      "category": "방어구",
+      "isExclude": false
+    },
+    {
+      "id": 104,
+      "buffId": 553583181,
+      "buffName": "(전설)비열한 일격",
+      "type": "RUNE",
+      "category": "방어구",
+      "isExclude": false
+    },
+    {
+      "id": 105,
+      "buffId": 1264519636,
+      "buffName": "(전설)붉은 맹약",
+      "type": "RUNE",
+      "category": "방어구",
+      "isExclude": false
+    },
+    {
+      "id": 106,
+      "buffId": 1809351828,
+      "buffName": "(전설)저격",
+      "type": "RUNE",
+      "category": "방어구",
+      "isExclude": false
+    },
+    {
+      "id": 107,
+      "buffId": 111111111,
+      "buffName": "(전설)깨달음",
+      "type": "RUNE",
+      "category": "방어구",
+      "isExclude": false
+    },
+    {
+      "id": 108,
+      "buffId": 980987121,
+      "buffName": "(전설)신성한 수양",
+      "type": "RUNE",
+      "category": "방어구",
+      "isExclude": false
+    },
+    {
+      "id": 109,
+      "buffId": 1030401070,
+      "buffName": "(전설)원소술사",
+      "type": "RUNE",
+      "category": "방어구",
+      "isExclude": false
+    },
+    {
+      "id": 110,
+      "buffId": 1336237190,
+      "buffName": "(전설)공명하는 수정",
+      "type": "RUNE",
+      "category": "방어구",
+      "isExclude": false
+    },
+    {
+      "id": 111,
+      "buffId": 255594624,
+      "buffName": "(전설)평원 방랑자",
+      "type": "RUNE",
+      "category": "방어구",
+      "isExclude": false
+    },
+    {
+      "id": 112,
+      "buffId": 2000676383,
+      "buffName": "(전설)엄습하는 그림자",
+      "type": "RUNE",
+      "category": "방어구",
+      "isExclude": false
+    },
+    {
+      "id": 113,
+      "buffId": 1820178912,
+      "buffName": "(전설)거센 소나기",
+      "type": "RUNE",
+      "category": "방어구",
+      "isExclude": false
+    },
+    {
+      "id": 114,
+      "buffId": 383592687,
+      "buffName": "(전설)초자연",
+      "type": "RUNE",
+      "category": "방어구",
+      "isExclude": false
+    },
+    {
+      "id": 115,
+      "buffId": 360795271,
+      "buffName": "(전설)쇄빙",
+      "type": "RUNE",
+      "category": "방어구",
+      "isExclude": false
+    },
+    {
+      "id": 116,
+      "buffId": 271626813,
+      "buffName": "(전설)횃불",
+      "type": "RUNE",
+      "category": "방어구",
+      "isExclude": false
+    },
+    {
+      "id": 117,
+      "buffId": 49378514,
+      "buffName": "(에픽)전술가",
+      "type": "RUNE",
+      "category": "방어구",
+      "isExclude": false
+    },
+    {
+      "id": 118,
+      "buffId": 1353321856,
+      "buffName": "(에픽)초자연",
+      "type": "RUNE",
+      "category": "방어구",
+      "isExclude": false
+    },
+    {
+      "id": 119,
+      "buffId": 1683547438,
+      "buffName": "(전설)눈먼분노",
+      "type": "RUNE",
+      "category": "무기",
+      "isExclude": false
+    },
+    {
+      "id": 120,
+      "buffId": 1958772681,
+      "buffName": "(전설)영혼수확자",
+      "type": "RUNE",
+      "category": "무기",
+      "isExclude": false
+    },
+    {
+      "id": 121,
+      "buffId": 1488942561,
+      "buffName": "(에픽)연격-강타",
+      "type": "RUNE",
+      "category": "무기",
+      "isExclude": false
+    },
+    {
+      "id": 122,
+      "buffId": 1878652407,
+      "buffName": "(에픽)연격-연타",
+      "type": "RUNE",
+      "category": "무기",
+      "isExclude": false
+    },
+    {
+      "id": 123,
+      "buffId": 6770562,
+      "buffName": "(대검)맹공",
+      "type": "JOB",
+      "category": "대검",
+      "isExclude": false
+    },
+    {
+      "id": 124,
+      "buffId": 432584033,
+      "buffName": "(대검)보복",
+      "type": "JOB",
+      "category": "대검",
+      "isExclude": false
+    },
+    {
+      "id": 125,
+      "buffId": 1870274663,
+      "buffName": "(대검)불복",
+      "type": "JOB",
+      "category": "대검",
+      "isExclude": false
+    },
+    {
+      "id": 126,
+      "buffId": 522689739,
+      "buffName": "(대검)탄력",
+      "type": "JOB",
+      "category": "대검",
+      "isExclude": false
+    },
+    {
+      "id": 127,
+      "buffId": 738356781,
+      "buffName": "(대검)심찌",
+      "type": "JOB",
+      "category": "대검",
+      "isExclude": false
+    },
+    {
+      "id": 128,
+      "buffId": 1689396493,
+      "buffName": "(검술)집중",
+      "type": "JOB",
+      "category": "검술",
+      "isExclude": false
+    },
+    {
+      "id": 129,
+      "buffId": 82339440,
+      "buffName": "(검술)연계 검술",
+      "type": "JOB",
+      "category": "검술",
+      "isExclude": false
+    },
+    {
+      "id": 130,
+      "buffId": 1302701928,
+      "buffName": "(검술)날카로운 눈",
+      "type": "JOB",
+      "category": "검술",
+      "isExclude": false
+    },
+    {
+      "id": 131,
+      "buffId": 226458112,
+      "buffName": "(법사)아케인파워-빙결",
+      "type": "JOB",
+      "category": "법사",
+      "isExclude": false
+    },
+    {
+      "id": 132,
+      "buffId": 349174146,
+      "buffName": "(화법)버닝소울 1단계",
+      "type": "JOB",
+      "category": "화법",
+      "isExclude": false
+    },
+    {
+      "id": 133,
+      "buffId": 66076860,
+      "buffName": "(화법)버닝소울 2단계",
+      "type": "JOB",
+      "category": "화법",
+      "isExclude": false
+    },
+    {
+      "id": 134,
+      "buffId": 825083561,
+      "buffName": "(화법)버닝소울 3단계",
+      "type": "JOB",
+      "category": "화법",
+      "isExclude": false
+    },
+    {
+      "id": 135,
+      "buffId": 1407435667,
+      "buffName": "(빙결)베일 오브 윈터",
+      "type": "JOB",
+      "category": "빙결",
+      "isExclude": false
+    },
+    {
+      "id": 136,
+      "buffId": 1712968343,
+      "buffName": "(빙결)흩날리는 서리",
+      "type": "JOB",
+      "category": "빙결",
+      "isExclude": false
+    },
+    {
+      "id": 137,
+      "buffId": 728846727,
+      "buffName": "(전격)과충전 스택",
+      "type": "JOB",
+      "category": "전격",
+      "isExclude": false
+    },
+    {
+      "id": 138,
+      "buffId": 213733484,
+      "buffName": "(힐러)오토쉴드",
+      "type": "JOB",
+      "category": "힐러",
+      "isExclude": false
+    },
+    {
+      "id": 139,
+      "buffId": 800702752,
+      "buffName": "(힐러)바이탈 부스트",
+      "type": "JOB",
+      "category": "힐러",
+      "isExclude": false
+    },
+    {
+      "id": 140,
+      "buffId": 2113102204,
+      "buffName": "(수도)빛의 진언",
+      "type": "JOB",
+      "category": "수도",
+      "isExclude": false
+    },
+    {
+      "id": 141,
+      "buffId": 8323211655,
+      "buffName": "(수도)힘의 진언",
+      "type": "JOB",
+      "category": "수도",
+      "isExclude": false
+    },
+    {
+      "id": 142,
+      "buffId": 1514527476,
+      "buffName": "(수도)정화의 진언",
+      "type": "JOB",
+      "category": "수도",
+      "isExclude": false
+    },
+    {
+      "id": 143,
+      "buffId": 334555191,
+      "buffName": "(수도)평온의 진언",
+      "type": "JOB",
+      "category": "수도",
+      "isExclude": false
+    },
+    {
+      "id": 144,
+      "buffId": 639927731,
+      "buffName": "(수도)깨달음",
+      "type": "JOB",
+      "category": "수도",
+      "isExclude": false
+    },
+    {
+      "id": 145,
+      "buffId": 1674275784,
+      "buffName": "(석궁)속도증가",
+      "type": "JOB",
+      "category": "석궁",
+      "isExclude": false
+    },
+    {
+      "id": 146,
+      "buffId": 771555707,
+      "buffName": "(석궁)감전",
+      "type": "JOB",
+      "category": "석궁",
+      "isExclude": false
+    },
+    {
+      "id": 147,
+      "buffId": 1804215912,
+      "buffName": "(석궁)드라이빙 포스",
+      "type": "JOB",
+      "category": "석궁",
+      "isExclude": false
+    },
+    {
+      "id": 148,
+      "buffId": 1392070812,
+      "buffName": "(장궁)저격술",
+      "type": "JOB",
+      "category": "장궁",
+      "isExclude": false
+    },
+    {
+      "id": 149,
+      "buffId": 1822308306,
+      "buffName": "(악사)기분좋아",
+      "type": "JOB",
+      "category": "악사",
+      "isExclude": false
+    },
+    {
+      "id": 150,
+      "buffId": 1419327883,
+      "buffName": "(악사)기분나빠",
+      "type": "JOB",
+      "category": "악사",
+      "isExclude": false
+    },
+    {
+      "id": 151,
+      "buffId": 833670126,
+      "buffName": "(악사)무드유지",
+      "type": "JOB",
+      "category": "악사",
+      "isExclude": false
+    },
+    {
+      "id": 152,
+      "buffId": 1986276347,
+      "buffName": "(악사)크레센도(공증)",
+      "type": "JOB",
+      "category": "악사",
+      "isExclude": false
+    },
+    {
+      "id": 153,
+      "buffId": 636643435,
+      "buffName": "(악사)에코",
+      "type": "JOB",
+      "category": "악사",
+      "isExclude": false
+    },
+    {
+      "id": 154,
+      "buffId": 1835605660,
+      "buffName": "(악사)모데라토",
+      "type": "JOB",
+      "category": "악사",
+      "isExclude": false
+    },
+    {
+      "id": 155,
+      "buffId": 1392602299,
+      "buffName": "(악사)크레센도(연주강화)",
+      "type": "JOB",
+      "category": "악사",
+      "isExclude": false
+    },
+    {
+      "id": 156,
+      "buffId": 1513880920,
+      "buffName": "(도적)중독",
+      "type": "JOB",
+      "category": "도적",
+      "isExclude": false
+    },
+    {
+      "id": 157,
+      "buffId": 1121609075,
+      "buffName": "(도적)스니크 어택",
+      "type": "JOB",
+      "category": "도적",
+      "isExclude": false
+    },
+    {
+      "id": 158,
+      "buffId": 1795978473,
+      "buffName": "(듀블)스플릿 슬래시",
+      "type": "JOB",
+      "category": "듀블",
+      "isExclude": false
+    },
+    {
+      "id": 159,
+      "buffId": 607218993,
+      "buffName": "(듀블)활기",
+      "type": "JOB",
+      "category": "듀블",
+      "isExclude": false
+    },
+    {
+      "id": 160,
+      "buffId": 1154048891,
+      "buffName": "(듀블)하울링 템페스트",
+      "type": "JOB",
+      "category": "듀블",
+      "isExclude": false
+    },
+    {
+      "id": 161,
+      "buffId": 2144204919,
+      "buffName": "프로텍션",
+      "type": "SYNERGY",
+      "category": null,
+      "isExclude": false
+    },
+    {
+      "id": 162,
+      "buffId": 1026983178,
+      "buffName": "바이탈 부스트",
+      "type": "SYNERGY",
+      "category": null,
+      "isExclude": false
+    },
+    {
+      "id": 163,
+      "buffId": 905459140,
+      "buffName": "전사의 용기",
+      "type": "SYNERGY",
+      "category": null,
+      "isExclude": false
+    },
+    {
+      "id": 164,
+      "buffId": 1431861317,
+      "buffName": "도적의 머지",
+      "type": "SYNERGY",
+      "category": null,
+      "isExclude": false
+    },
+    {
+      "id": 165,
+      "buffId": 758766087,
+      "buffName": "(어려움)파멸의 징조",
+      "type": "ENEMY",
+      "category": "어려움",
+      "isExclude": false
+    },
+    {
+      "id": 166,
+      "buffId": 1993441463,
+      "buffName": "(매어)파멸의 징조",
+      "type": "ENEMY",
+      "category": "매어",
+      "isExclude": false
+    },
+    {
+      "id": 167,
+      "buffId": 2134346801,
+      "buffName": "(매어)녹아내린 갑옷",
+      "type": "ENEMY",
+      "category": "매어",
+      "isExclude": false
+    },
+    {
+      "id": 168,
+      "buffId": 439731380,
+      "buffName": "야무진 응원",
+      "type": "PET",
+      "category": "펫",
+      "isExclude": false
+    },
+    {
+      "id": 169,
+      "buffId": 651658545,
+      "buffName": "치명타의 축복",
+      "type": "PET",
+      "category": "펫",
+      "isExclude": false
+    },
+    {
+      "id": 170,
+      "buffId": 168942269,
+      "buffName": "연타 강화의 축복",
+      "type": "PET",
+      "category": "펫",
+      "isExclude": false
+    },
+    {
+      "id": 171,
+      "buffId": 444502693,
+      "buffName": "급소 회피의 축복",
+      "type": "PET",
+      "category": "펫",
+      "isExclude": false
+    },
+    {
+      "id": 172,
+      "buffId": 323735547,
+      "buffName": "(전설)저격-대기",
+      "type": "ETC",
+      "category": null,
+      "isExclude": true
+    },
+    {
+      "id": 173,
+      "buffId": 363643485,
+      "buffName": "(악사)3: 2악장 연계",
+      "type": "ETC",
+      "category": null,
+      "isExclude": true
+    },
+    {
+      "id": 174,
+      "buffId": 496084505,
+      "buffName": "(악사)3: 3악장 연계",
+      "type": "ETC",
+      "category": null,
+      "isExclude": true
+    },
+    {
+      "id": 175,
+      "buffId": 1468122837,
+      "buffName": "(악사)세레나데(시전중)",
+      "type": "ETC",
+      "category": null,
+      "isExclude": true
+    },
+    {
+      "id": 176,
+      "buffId": 1718941246,
+      "buffName": "(대검)앞자세",
+      "type": "ETC",
+      "category": null,
+      "isExclude": true
+    },
+    {
+      "id": 177,
+      "buffId": 1047605714,
+      "buffName": "(대검)자원1",
+      "type": "ETC",
+      "category": null,
+      "isExclude": true
+    },
+    {
+      "id": 178,
+      "buffId": 1166132899,
+      "buffName": "(대검)자원2",
+      "type": "ETC",
+      "category": null,
+      "isExclude": true
+    },
+    {
+      "id": 179,
+      "buffId": 750909214,
+      "buffName": "(대검)자원3",
+      "type": "ETC",
+      "category": null,
+      "isExclude": true
+    },
+    {
+      "id": 180,
+      "buffId": 545818869,
+      "buffName": "(화법)열기 50퍼 미만",
+      "type": "ETC",
+      "category": null,
+      "isExclude": true
+    },
+    {
+      "id": 181,
+      "buffId": 1960623825,
+      "buffName": "(화법)열기 50퍼 이상",
+      "type": "ETC",
+      "category": null,
+      "isExclude": true
+    },
+    {
+      "id": 182,
+      "buffId": 66533560,
+      "buffName": "(화법)3스?",
+      "type": "ETC",
+      "category": null,
+      "isExclude": true
+    },
+    {
+      "id": 183,
+      "buffId": 1442950753,
+      "buffName": "(화법)1스 관련",
+      "type": "ETC",
+      "category": null,
+      "isExclude": true
+    },
+    {
+      "id": 184,
+      "buffId": 1177473728,
+      "buffName": "(화법)4스 관련",
+      "type": "ETC",
+      "category": null,
+      "isExclude": true
+    },
+    {
+      "id": 185,
+      "buffId": 132877504,
+      "buffName": "(화법)6스 관련",
+      "type": "ETC",
+      "category": null,
+      "isExclude": true
+    },
+    {
+      "id": 186,
+      "buffId": 2111955683,
+      "buffName": "(화법)6스 관련",
+      "type": "ETC",
+      "category": null,
+      "isExclude": true
+    },
+    {
+      "id": 187,
+      "buffId": 1919350846,
+      "buffName": "(화법)불기둥 룬 관련",
+      "type": "ETC",
+      "category": null,
+      "isExclude": true
+    },
+    {
+      "id": 188,
+      "buffId": 1214749013,
+      "buffName": "(화법)패스브?",
+      "type": "ETC",
+      "category": null,
+      "isExclude": true
+    },
+    {
+      "id": 189,
+      "buffId": 2062730019,
+      "buffName": "(화법)패스브?",
+      "type": "ETC",
+      "category": null,
+      "isExclude": true
+    },
+    {
+      "id": 190,
+      "buffId": 2069643387,
+      "buffName": "(화법)패스브 도트딜?",
+      "type": "ETC",
+      "category": null,
+      "isExclude": true
+    },
+    {
+      "id": 191,
+      "buffId": 1658873753,
+      "buffName": "(궁수)바람결",
+      "type": "JOB",
+      "category": "궁수",
+      "isExclude": false
+    },
+    {
+      "id": 192,
+      "buffId": 1028557856,
+      "buffName": "빠른 스킬의 축복",
+      "type": "PET",
+      "category": "펫",
+      "isExclude": false
+    },
+    {
+      "id": 193,
+      "buffId": 818609909,
+      "buffName": "추가타의 축복",
+      "type": "PET",
+      "category": "펫",
+      "isExclude": false
+    },
+    {
+      "id": 194,
+      "buffId": 673296279,
+      "buffName": "브레이크 하울링SS",
+      "type": "PET",
+      "category": "펫",
+      "isExclude": false
+    },
+    {
+      "id": 195,
+      "buffId": 1643216896,
+      "buffName": "쾌속의 날갯짓",
+      "type": "PET",
+      "category": "펫",
+      "isExclude": false
+    },
+    {
+      "id": 196,
+      "buffId": 1686016397,
+      "buffName": "강타 강화의 축복",
+      "type": "PET",
+      "category": "펫",
+      "isExclude": false
+    },
+    {
+      "id": 198,
+      "buffId": 1716214915,
+      "buffName": "(전설)마법탐구가",
+      "type": "RUNE",
+      "category": "무기",
+      "isExclude": false
+    },
+    {
+      "id": 199,
+      "buffId": 1340218492,
+      "buffName": "(전설)타오르는심장",
+      "type": "RUNE",
+      "category": "방어구",
+      "isExclude": false
+    },
+    {
+      "id": 200,
+      "buffId": 937658644,
+      "buffName": "(대검)필사의각오",
+      "type": "JOB",
+      "category": "대검",
+      "isExclude": false
+    },
+    {
+      "id": 201,
+      "buffId": 322764292,
+      "buffName": "(격가)연계공격",
+      "type": "JOB",
+      "category": "격가",
+      "isExclude": false
+    },
+    {
+      "id": 202,
+      "buffId": 1706800793,
+      "buffName": "(유니크)타락한생명의고리",
+      "type": "RUNE",
+      "category": "장신구",
+      "isExclude": false
+    },
+    {
+      "id": 203,
+      "buffId": 1478677912,
+      "buffName": "(법사)아케인파워-감전",
+      "type": "JOB",
+      "category": "법사",
+      "isExclude": false
+    },
+    {
+      "id": 205,
+      "buffId": 1959712337,
+      "buffName": "(법사)아케인파워-화상",
+      "type": "JOB",
+      "category": "법사",
+      "isExclude": false
+    },
+    {
+      "id": 206,
+      "buffId": 162172504,
+      "buffName": "(법사)마나실드-피해감소",
+      "type": "JOB",
+      "category": "법사",
+      "isExclude": false
+    },
+    {
+      "id": 207,
+      "buffId": 808385604,
+      "buffName": "(법사)마나실드-쿨감/마나회복",
+      "type": "JOB",
+      "category": "법사",
+      "isExclude": false
+    },
+    {
+      "id": 208,
+      "buffId": 374032021,
+      "buffName": "(힐러)라이프링크",
+      "type": "JOB",
+      "category": "힐러",
+      "isExclude": false
+    },
+    {
+      "id": 209,
+      "buffId": 701568405,
+      "buffName": "(힐러)생명의 고동(물결)",
+      "type": "JOB",
+      "category": "힐러",
+      "isExclude": false
+    },
+    {
+      "id": 210,
+      "buffId": 307080858,
+      "buffName": "(힐러)라이프링크-서약",
+      "type": "JOB",
+      "category": "힐러",
+      "isExclude": false
+    },
+    {
+      "id": 211,
+      "buffId": 778369761,
+      "buffName": "(사제)서먼링커",
+      "type": "JOB",
+      "category": "사제",
+      "isExclude": false
+    },
+    {
+      "id": 212,
+      "buffId": 1555612653,
+      "buffName": "콤보 강화의 축복",
+      "type": "PET",
+      "category": "펫",
+      "isExclude": false
+    },
+    {
+      "id": 213,
+      "buffId": 546977347,
+      "buffName": "광역 강화의 축복",
+      "type": "PET",
+      "category": "펫",
+      "isExclude": false
+    },
+    {
+      "id": 214,
+      "buffId": 1104541744,
+      "buffName": "(유니크)비틀린생명의고리",
+      "type": "RUNE",
+      "category": "장신구",
+      "isExclude": false
+    },
+    {
+      "id": 215,
+      "buffId": 836306853,
+      "buffName": "강타 강화 비약",
+      "type": "ETC",
+      "category": "물약",
+      "isExclude": false
+    },
+    {
+      "id": 216,
+      "buffId": 476273610,
+      "buffName": "연타 강화 비약",
+      "type": "ETC",
+      "category": "물약",
+      "isExclude": false
+    },
+    {
+      "id": 217,
+      "buffId": 442802449,
+      "buffName": "혼합 강화 비약(산사태)",
+      "type": "ETC",
+      "category": "물약",
+      "isExclude": false
+    },
+    {
+      "id": 218,
+      "buffId": 297847065,
+      "buffName": "상급 강타 강화 비약",
+      "type": "ETC",
+      "category": "물약",
+      "isExclude": false
+    },
+    {
+      "id": 219,
+      "buffId": 1590592632,
+      "buffName": "상급 연타 강화 비약",
+      "type": "ETC",
+      "category": "물약",
+      "isExclude": false
+    },
+    {
+      "id": 220,
+      "buffId": 1197217502,
+      "buffName": "상급 혼합 강화 비약(산사태)",
+      "type": "ETC",
+      "category": "물약",
+      "isExclude": false
+    },
+    {
+      "id": 221,
+      "buffId": 362424410,
+      "buffName": "강화 치명타 물약",
+      "type": "ETC",
+      "category": "물약",
+      "isExclude": false
+    },
+    {
+      "id": 222,
+      "buffId": 442624048,
+      "buffName": "치명타 비약",
+      "type": "ETC",
+      "category": "물약",
+      "isExclude": false
+    },
+    {
+      "id": 223,
+      "buffId": 1975431164,
+      "buffName": "피해 감소 비약",
+      "type": "ETC",
+      "category": "물약",
+      "isExclude": false
+    },
+    {
+      "id": 224,
+      "buffId": 527407769,
+      "buffName": "(전사)복수심",
+      "type": "JOB",
+      "category": "전사",
+      "isExclude": false
+    },
+    {
+      "id": 225,
+      "buffId": 1013251401,
+      "buffName": "(전사)아마란스킥 온",
+      "type": "JOB",
+      "category": "전사",
+      "isExclude": false
+    },
+    {
+      "id": 226,
+      "buffId": 1605163504,
+      "buffName": "(전사)기회 포착",
+      "type": "JOB",
+      "category": "전사",
+      "isExclude": false
+    },
+    {
+      "id": 227,
+      "buffId": 2104567939,
+      "buffName": "강타 강화의 축복(튼튼)",
+      "type": "PET",
+      "category": "펫",
+      "isExclude": false
+    },
+    {
+      "id": 228,
+      "buffId": 1170411770,
+      "buffName": "(유니크)리시타의 실전용 전투화",
+      "type": "RUNE",
+      "category": "방어구",
+      "isExclude": false
+    },
+    {
+      "id": 229,
+      "buffId": 1006655172,
+      "buffName": "(전설)고요한 바람",
+      "type": "RUNE",
+      "category": "방어구",
+      "isExclude": false
+    }
+  ]
+}

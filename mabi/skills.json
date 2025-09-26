@@ -3041,6 +3041,42 @@
       "skillKey": "1033051081",
       "skillName": "크로스 파이어",
       "isExclude": false
+    },
+    {
+      "id": 944,
+      "skillKey": "Arbalist_ShockExplosion_Tier2C_Strong",
+      "skillName": "할로우 샷(강화)",
+      "isExclude": false
+    },
+    {
+      "id": 945,
+      "skillKey": "Arbalist_ShockExplosion_Tier2C",
+      "skillName": "할로우 샷",
+      "isExclude": false
+    },
+    {
+      "id": 946,
+      "skillKey": "LightningMage_FinalSpark_Tier2A_Casting",
+      "skillName": "번개 폭풍",
+      "isExclude": false
+    },
+    {
+      "id": 947,
+      "skillKey": "1847600704",
+      "skillName": "기교: 클라이맥스",
+      "isExclude": false
+    },
+    {
+      "id": 948,
+      "skillKey": "1231792982",
+      "skillName": "연주: 아르페지오",
+      "isExclude": false
+    },
+    {
+      "id": 949,
+      "skillKey": "1847600704",
+      "skillName": "기교: 클라이맥스",
+      "isExclude": false
     }
   ]
 }
