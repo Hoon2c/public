@@ -2697,7 +2697,7 @@
     {
       "id": 885,
       "skillKey": "1482155498",
-      "skillName": "힘의진언",
+      "skillName": "힘의 진언",
       "isExclude": false
     },
     {
@@ -3039,7 +3039,7 @@
     {
       "id": 943,
       "skillKey": "1033051081",
-      "skillName": "크로스 파이어",
+      "skillName": "래피드 파이어",
       "isExclude": false
     },
     {
@@ -3073,9 +3073,261 @@
       "isExclude": false
     },
     {
-      "id": 949,
-      "skillKey": "1847600704",
-      "skillName": "기교: 클라이맥스",
+      "id": 950,
+      "skillKey": "243901491",
+      "skillName": "하트 시커",
+      "isExclude": false
+    },
+    {
+      "id": 951,
+      "skillKey": "1023759294",
+      "skillName": "드래곤 베인",
+      "isExclude": false
+    },
+    {
+      "id": 952,
+      "skillKey": "GreatSwordWarrior_Blockade_Tier1C_Back",
+      "skillName": "어깨치기",
+      "isExclude": false
+    },
+    {
+      "id": 953,
+      "skillKey": "GreatSwordWarrior_Blockade_Tier1C_Front",
+      "skillName": "어깨치기",
+      "isExclude": false
+    },
+    {
+      "id": 954,
+      "skillKey": "925528410",
+      "skillName": "프로텍션",
+      "isExclude": false
+    },
+    {
+      "id": 955,
+      "skillKey": "Healer_PulseOfLife_Tier2C_Casting",
+      "skillName": "쇄약",
+      "isExclude": false
+    },
+    {
+      "id": 956,
+      "skillKey": "1570230568",
+      "skillName": "서먼 루미너스",
+      "isExclude": false
+    },
+    {
+      "id": 957,
+      "skillKey": "SwordMaster_Detection_Tier2C",
+      "skillName": "간파 (일섬)",
+      "isExclude": false
+    },
+    {
+      "id": 958,
+      "skillKey": "2052985685",
+      "skillName": "썬더 (3차지)",
+      "isExclude": false
+    },
+    {
+      "id": 959,
+      "skillKey": "730311271",
+      "skillName": "썬더 (2차지)",
+      "isExclude": false
+    },
+    {
+      "id": 960,
+      "skillKey": "HighMage_Lightning_Tier2C_Casting",
+      "skillName": "썬더 (감전 포함)",
+      "isExclude": false
+    },
+    {
+      "id": 961,
+      "skillKey": "954269340",
+      "skillName": "평타",
+      "isExclude": false
+    },
+    {
+      "id": 962,
+      "skillKey": "1746216117",
+      "skillName": "기습",
+      "isExclude": false
+    },
+    {
+      "id": 963,
+      "skillKey": "DualBlades_OuterSlash_Tier2C_Strong",
+      "skillName": "사우전드 니들(강화)",
+      "isExclude": false
+    },
+    {
+      "id": 964,
+      "skillKey": "DualBlades_OuterSlash_Tier2C",
+      "skillName": "사우전드 니들",
+      "isExclude": false
+    },
+    {
+      "id": 965,
+      "skillKey": "1144775654",
+      "skillName": "질풍태세(패시브)",
+      "isExclude": false
+    },
+    {
+      "id": 966,
+      "skillKey": "2052985685",
+      "skillName": "썬더",
+      "isExclude": false
+    },
+    {
+      "id": 967,
+      "skillKey": "1040961060",
+      "skillName": "썬더 (감전)",
+      "isExclude": false
+    },
+    {
+      "id": 968,
+      "skillKey": "1200795108",
+      "skillName": "메테오 스트라이크",
+      "isExclude": false
+    },
+    {
+      "id": 969,
+      "skillKey": "452634018",
+      "skillName": "텔레키네시스",
+      "isExclude": false
+    },
+    {
+      "id": 970,
+      "skillKey": "1253406219",
+      "skillName": "아이스 대거",
+      "isExclude": false
+    },
+    {
+      "id": 971,
+      "skillKey": "1529662494",
+      "skillName": "필사의 일격(궁)",
+      "isExclude": false
+    },
+    {
+      "id": 972,
+      "skillKey": "439867006",
+      "skillName": "사우전드 니들",
+      "isExclude": false
+    },
+    {
+      "id": 973,
+      "skillKey": "1724511412",
+      "skillName": "사우전드 니들(강화)",
+      "isExclude": false
+    },
+    {
+      "id": 974,
+      "skillKey": "ExpertArcher_EscapeStep_Tier2C_Recast",
+      "skillName": "와이어샷",
+      "isExclude": false
+    },
+    {
+      "id": 975,
+      "skillKey": "ExpertBard_BardsTale_Tier2C_Channeling",
+      "skillName": "전설의 무곡",
+      "isExclude": false
+    },
+    {
+      "id": 976,
+      "skillKey": "PlayerCommon_Transfigure_Paladin",
+      "skillName": "팔라딘",
+      "isExclude": false
+    },
+    {
+      "id": 978,
+      "skillKey": "Dancer_NaturalTurn_Tier1C_Elegance",
+      "skillName": "내츄럴 턴 (전환)",
+      "isExclude": false
+    },
+    {
+      "id": 979,
+      "skillKey": "Dancer_FencingLine_Tier2C",
+      "skillName": "강화: 프론트 스텝",
+      "isExclude": false
+    },
+    {
+      "id": 981,
+      "skillKey": "265343464",
+      "skillName": "와이어샷 도탄",
+      "isExclude": false
+    },
+    {
+      "id": 982,
+      "skillKey": "Monk_Skill_SurgeOfLight_Tier2C_Enhanced",
+      "skillName": "쇄도",
+      "isExclude": false
+    },
+    {
+      "id": 983,
+      "skillKey": "Priest_CelticCross_Tier2C",
+      "skillName": "켈틱크로스 (심판)",
+      "isExclude": false
+    },
+    {
+      "id": 984,
+      "skillKey": "LongBowMan_CrashShot_Tier2C",
+      "skillName": "토네이도 샷",
+      "isExclude": false
+    },
+    {
+      "id": 985,
+      "skillKey": "HighMage_IceDagger_Tier2A_Casting",
+      "skillName": "아이스대거",
+      "isExclude": false
+    },
+    {
+      "id": 986,
+      "skillKey": "1783320001",
+      "skillName": "초월 번개폭풍",
+      "isExclude": false
+    },
+    {
+      "id": 987,
+      "skillKey": "1611364497",
+      "skillName": "초월 도관 과충전",
+      "isExclude": false
+    },
+    {
+      "id": 988,
+      "skillKey": "FireMage_FlameCannon_Tier2C_Casting",
+      "skillName": "플레임 캐논",
+      "isExclude": false
+    },
+    {
+      "id": 989,
+      "skillKey": "ExpertWarrior_BladeSmash_Tier2C_Enhanced",
+      "skillName": "블레이드 스메쉬",
+      "isExclude": false
+    },
+    {
+      "id": 990,
+      "skillKey": "ExpertWarrior_BladeSmash_Tier2C",
+      "skillName": "블레이드 스메쉬",
+      "isExclude": false
+    },
+    {
+      "id": 991,
+      "skillKey": "Fighter_Somersalt_Tier2C",
+      "skillName": "섬머솔트",
+      "isExclude": false
+    },
+    {
+      "id": 992,
+      "skillKey": "LightningMage_MagneticStorm_Tier2C_Casting",
+      "skillName": "전자기 폭풍",
+      "isExclude": false
+    },
+    {
+      "id": 993,
+      "skillKey": "Monk_Skill_SurgeOfLight_Tier2C_Enhanced",
+      "skillName": "쇄도(해일)",
+      "isExclude": false
+    },
+    {
+      "id": 994,
+      "skillKey": "1719791381",
+      "skillName": "쓰로잉봄(독성각인)",
       "isExclude": false
     }
   ]

@@ -227,7 +227,7 @@
     {
       "id": 125,
       "buffId": 1870274663,
-      "buffName": "(대검)불복",
+      "buffName": "(대검)불굴",
       "type": "JOB",
       "category": "대검",
       "isExclude": false
@@ -419,7 +419,7 @@
     {
       "id": 149,
       "buffId": 1822308306,
-      "buffName": "(악사)기분좋아",
+      "buffName": "(악사)무드업",
       "type": "JOB",
       "category": "악사",
       "isExclude": false
@@ -427,7 +427,7 @@
     {
       "id": 150,
       "buffId": 1419327883,
-      "buffName": "(악사)기분나빠",
+      "buffName": "(악사)무드다운",
       "type": "JOB",
       "category": "악사",
       "isExclude": false
@@ -1046,6 +1046,30 @@
       "buffName": "(전설)고요한 바람",
       "type": "RUNE",
       "category": "방어구",
+      "isExclude": false
+    },
+    {
+      "id": 230,
+      "buffId": 1968420085,
+      "buffName": "(검술)평정",
+      "type": "JOB",
+      "category": "검술",
+      "isExclude": false
+    },
+    {
+      "id": 231,
+      "buffId": 2101857605,
+      "buffName": "(신화)바스러지는 빛",
+      "type": "RUNE",
+      "category": "방어구",
+      "isExclude": false
+    },
+    {
+      "id": 232,
+      "buffId": 1391765685,
+      "buffName": "마지막 자비",
+      "type": "RUNE",
+      "category": "무기",
       "isExclude": false
     }
   ]
