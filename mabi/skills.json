@@ -789,7 +789,7 @@
     {
       "id": 566,
       "skillKey": "FireMage_Flashover",
-      "skillName": "플래쉬오버",
+      "skillName": "플래시오버",
       "isExclude": false
     },
     {
@@ -837,7 +837,7 @@
     {
       "id": 574,
       "skillKey": "IceMage_CrystalEdge_Tier2A",
-      "skillName": "크리스탈 소드",
+      "skillName": "크리스탈 엣지",
       "isExclude": false
     },
     {
@@ -993,7 +993,7 @@
     {
       "id": 600,
       "skillKey": "LightningMage_Transcend_BallLightning",
-      "skillName": "번개 구체 (초월)",
+      "skillName": "번개 구체",
       "isExclude": false
     },
     {
@@ -1419,7 +1419,7 @@
     {
       "id": 671,
       "skillKey": "Healer_SummonSprite",
-      "skillName": "라이프 링크",
+      "skillName": "서먼 스프라이트",
       "isExclude": false
     },
     {
@@ -2133,7 +2133,7 @@
     {
       "id": 790,
       "skillKey": "HighThief_Hide_Tier2A",
-      "skillName": "은신 추가데미지",
+      "skillName": "은신 타격",
       "isExclude": false
     },
     {
@@ -2481,7 +2481,7 @@
     {
       "id": 848,
       "skillKey": "DualBlades_HurricaneDance_Strong",
-      "skillName": "스크류 러쉬",
+      "skillName": "스크류 러시",
       "isExclude": false
     },
     {
@@ -2739,7 +2739,7 @@
     {
       "id": 892,
       "skillKey": "195093857",
-      "skillName": "작열의 궤적 (불화살 딜)",
+      "skillName": "작열의 궤적",
       "isExclude": false
     },
     {
@@ -2937,7 +2937,7 @@
     {
       "id": 925,
       "skillKey": "1496966702",
-      "skillName": "독 폭발",
+      "skillName": "포이즌 익스플로전",
       "isExclude": false
     },
     {
@@ -3027,7 +3027,7 @@
     {
       "id": 941,
       "skillKey": "352908878",
-      "skillName": "플래쉬오버",
+      "skillName": "플래시오버",
       "isExclude": false
     },
     {
@@ -3117,25 +3117,19 @@
     {
       "id": 957,
       "skillKey": "SwordMaster_Detection_Tier2C",
-      "skillName": "간파 (일섬)",
-      "isExclude": false
-    },
-    {
-      "id": 958,
-      "skillKey": "2052985685",
-      "skillName": "썬더 (3차지)",
+      "skillName": "간파",
       "isExclude": false
     },
     {
       "id": 959,
       "skillKey": "730311271",
-      "skillName": "썬더 (2차지)",
+      "skillName": "썬더",
       "isExclude": false
     },
     {
       "id": 960,
       "skillKey": "HighMage_Lightning_Tier2C_Casting",
-      "skillName": "썬더 (감전 포함)",
+      "skillName": "썬더",
       "isExclude": false
     },
     {
@@ -3177,7 +3171,7 @@
     {
       "id": 967,
       "skillKey": "1040961060",
-      "skillName": "썬더 (감전)",
+      "skillName": "썬더",
       "isExclude": false
     },
     {
@@ -3319,15 +3313,399 @@
       "isExclude": false
     },
     {
-      "id": 993,
-      "skillKey": "Monk_Skill_SurgeOfLight_Tier2C_Enhanced",
-      "skillName": "쇄도(해일)",
+      "id": 994,
+      "skillKey": "1719791381",
+      "skillName": "쓰로잉 봄",
       "isExclude": false
     },
     {
-      "id": 994,
-      "skillKey": "1719791381",
-      "skillName": "쓰로잉봄(독성각인)",
+      "id": 995,
+      "skillKey": "Arbalist_MountingShock_Tier2A",
+      "skillName": "버스트 샷",
+      "isExclude": false
+    },
+    {
+      "id": 996,
+      "skillKey": "Arbalist_SpreadingBolt_02_Tier1A",
+      "skillName": "스프레드 볼트",
+      "isExclude": false
+    },
+    {
+      "id": 997,
+      "skillKey": "86472813",
+      "skillName": "암석",
+      "isExclude": false
+    },
+    {
+      "id": 998,
+      "skillKey": "BattleMusician_Arpeggio_Tier1C",
+      "skillName": "연주: 아르페지오",
+      "isExclude": false
+    },
+    {
+      "id": 999,
+      "skillKey": "1304413896",
+      "skillName": "낙뢰",
+      "isExclude": false
+    },
+    {
+      "id": 1000,
+      "skillKey": "266686596",
+      "skillName": "천둥",
+      "isExclude": false
+    },
+    {
+      "id": 1001,
+      "skillKey": "1453809637",
+      "skillName": "무의식 적용 평타",
+      "isExclude": false
+    },
+    {
+      "id": 1002,
+      "skillKey": "Arbalist_SpreadingBolt_Tier1C",
+      "skillName": "스프레드 볼트",
+      "isExclude": false
+    },
+    {
+      "id": 1005,
+      "skillKey": "Arbalist_SpreadingBolt_01_Tier1A",
+      "skillName": "스프레드 볼트",
+      "isExclude": false
+    },
+    {
+      "id": 1006,
+      "skillKey": "Arbalist_SpreadingBolt_03_Tier1A",
+      "skillName": "스프레드 볼트",
+      "isExclude": false
+    },
+    {
+      "id": 1007,
+      "skillKey": "1943362913",
+      "skillName": "프로텍션 반사딜",
+      "isExclude": false
+    },
+    {
+      "id": 1008,
+      "skillKey": "HighMage_Lightning_Tier1A_Casting",
+      "skillName": "라이트닝",
+      "isExclude": false
+    },
+    {
+      "id": 1009,
+      "skillKey": "Priest_CelticCross_Tier2C_Weak",
+      "skillName": "심판",
+      "isExclude": false
+    },
+    {
+      "id": 1010,
+      "skillKey": "GreatSwordWarrior_SpinningSlash_End1",
+      "skillName": "회전 베기",
+      "isExclude": false
+    },
+    {
+      "id": 1011,
+      "skillKey": "ExpertWarrior_DashStab_Tier1C",
+      "skillName": "찌르기",
+      "isExclude": false
+    },
+    {
+      "id": 1012,
+      "skillKey": "ExpertWarrior_DashStab_Tier1C_Enhanced",
+      "skillName": "찌르기",
+      "isExclude": false
+    },
+    {
+      "id": 1013,
+      "skillKey": "BreakExtend",
+      "skillName": "퀘이크",
+      "isExclude": false
+    },
+    {
+      "id": 1016,
+      "skillKey": "LongBowMan_HeartSeeker_Tier1C",
+      "skillName": "히트 시커",
+      "isExclude": false
+    },
+    {
+      "id": 1017,
+      "skillKey": "1448941104",
+      "skillName": "볼트 마법 조합",
+      "isExclude": false
+    },
+    {
+      "id": 1018,
+      "skillKey": "BattleMusician_Serenade_Tier2C_Channeling",
+      "skillName": "연주: 세레나데",
+      "isExclude": false
+    },
+    {
+      "id": 1019,
+      "skillKey": "DarkShaman_TwistedSanctuary_Casting",
+      "skillName": "뒤틀린 성역",
+      "isExclude": false
+    },
+    {
+      "id": 1020,
+      "skillKey": "DarkShaman_ShadowSpear_Casting",
+      "skillName": "검은 창",
+      "isExclude": false
+    },
+    {
+      "id": 1021,
+      "skillKey": "DarkShaman_AbyssalGrasp_Casting",
+      "skillName": "어둠의 손아귀",
+      "isExclude": false
+    },
+    {
+      "id": 1022,
+      "skillKey": "DarkShaman_EssenceDrain_Casting",
+      "skillName": "생명력 흡수",
+      "isExclude": false
+    },
+    {
+      "id": 1023,
+      "skillKey": "2078076958",
+      "skillName": "제물의 낙인",
+      "isExclude": false
+    },
+    {
+      "id": 1024,
+      "skillKey": "874768760",
+      "skillName": "그림자 손",
+      "isExclude": false
+    },
+    {
+      "id": 1033,
+      "skillKey": "1580236793",
+      "skillName": "심연의 창",
+      "isExclude": false
+    },
+    {
+      "id": 1034,
+      "skillKey": "DarkShaman_ShadowSpear_Tier2A_Casting",
+      "skillName": "검은 창",
+      "isExclude": false
+    },
+    {
+      "id": 1045,
+      "skillKey": "1193830579",
+      "skillName": "어둠",
+      "isExclude": false
+    },
+    {
+      "id": 1046,
+      "skillKey": "267197983",
+      "skillName": "뒤틀린 서약",
+      "isExclude": false
+    },
+    {
+      "id": 1047,
+      "skillKey": "1791381029",
+      "skillName": "출혈(기습)",
+      "isExclude": false
+    },
+    {
+      "id": 1048,
+      "skillKey": "1009839963",
+      "skillName": "스크류 대거",
+      "isExclude": false
+    },
+    {
+      "id": 1050,
+      "skillKey": "116993046",
+      "skillName": "의식: 죄어오는 죽음",
+      "isExclude": false
+    },
+    {
+      "id": 1051,
+      "skillKey": "DarkShaman_EssenceDrain_Tier1A_Casting",
+      "skillName": "생명력 흡수",
+      "isExclude": false
+    },
+    {
+      "id": 1052,
+      "skillKey": "1711454974",
+      "skillName": "흑요석 수의",
+      "isExclude": false
+    },
+    {
+      "id": 1053,
+      "skillKey": "1188299051",
+      "skillName": "의식: 죄어오는 죽음",
+      "isExclude": false
+    },
+    {
+      "id": 1054,
+      "skillKey": "932847457",
+      "skillName": "생명력 흡수",
+      "isExclude": false
+    },
+    {
+      "id": 1055,
+      "skillKey": "DarkShaman_Possession_AbyssalGrasp_Casting",
+      "skillName": "어둠의 손아귀",
+      "isExclude": false
+    },
+    {
+      "id": 1056,
+      "skillKey": "668059524",
+      "skillName": "흑요석 수의(의식:황혼의 시간 상태)",
+      "isExclude": false
+    },
+    {
+      "id": 1057,
+      "skillKey": "1675740582",
+      "skillName": "뒤틀린 성역",
+      "isExclude": false
+    },
+    {
+      "id": 1067,
+      "skillKey": "DarkShaman_AbyssalGrasp_End",
+      "skillName": "어둠의 손아귀",
+      "isExclude": false
+    },
+    {
+      "id": 1068,
+      "skillKey": "DarkShaman_Possession_EssenceDrain_Casting",
+      "skillName": "생명력 흡수",
+      "isExclude": false
+    },
+    {
+      "id": 1069,
+      "skillKey": "DarkShaman_Possession_ShadowSpear_Casting",
+      "skillName": "검은 창",
+      "isExclude": false
+    },
+    {
+      "id": 1070,
+      "skillKey": "1535390600",
+      "skillName": "뒤틀린 성역",
+      "isExclude": false
+    },
+    {
+      "id": 1071,
+      "skillKey": "1746872068",
+      "skillName": "의식: 흑요석 수의",
+      "isExclude": false
+    },
+    {
+      "id": 1072,
+      "skillKey": "588298707",
+      "skillName": "어둠의 손아귀",
+      "isExclude": false
+    },
+    {
+      "id": 1073,
+      "skillKey": "89950158",
+      "skillName": "죄어오는 죽음 (빙의 상태)",
+      "isExclude": false
+    },
+    {
+      "id": 1074,
+      "skillKey": "DarkShaman_AbyssalGrasp_Tier1A_Casting",
+      "skillName": "어둠의 손아귀",
+      "isExclude": false
+    },
+    {
+      "id": 1075,
+      "skillKey": "DarkShaman_TwistedSanctuary_Tier1A_Casting",
+      "skillName": "뒤틀린 성역",
+      "isExclude": false
+    },
+    {
+      "id": 1076,
+      "skillKey": "DualBlades_HurricaneDance_Tier1C",
+      "skillName": "스핀 러시",
+      "isExclude": false
+    },
+    {
+      "id": 1077,
+      "skillKey": "DualBlades_HurricaneDance_Tier1C_Strong",
+      "skillName": "스크류 러시",
+      "isExclude": false
+    },
+    {
+      "id": 1078,
+      "skillKey": "Healer_NerveStrike_Tier1A_Channeling",
+      "skillName": "생명의 고동",
+      "isExclude": false
+    },
+    {
+      "id": 1079,
+      "skillKey": "HighThief_Hide_Tier1C",
+      "skillName": "은신(주입의 각인)",
+      "isExclude": false
+    },
+    {
+      "id": 1080,
+      "skillKey": "RangeAttack_Ice",
+      "skillName": "혹한의 시련",
+      "isExclude": false
+    },
+    {
+      "id": 1081,
+      "skillKey": "RangeAttack_Poison",
+      "skillName": "맹독 감염",
+      "isExclude": false
+    },
+    {
+      "id": 1084,
+      "skillKey": "1238521726",
+      "skillName": "크래시 샷",
+      "isExclude": false
+    },
+    {
+      "id": 1085,
+      "skillKey": "2008829572",
+      "skillName": "지속피해: 신성",
+      "isExclude": false
+    },
+    {
+      "id": 1086,
+      "skillKey": "232233125",
+      "skillName": "대검술: 바람 가르기",
+      "isExclude": false
+    },
+    {
+      "id": 1087,
+      "skillKey": "DarkShaman_TwistedSanctuary_Tier2C_Casting",
+      "skillName": "뒤틀린 서약",
+      "isExclude": false
+    },
+    {
+      "id": 1088,
+      "skillKey": "FireMage_RapidFire_Tier2A_Enhanced",
+      "skillName": "래피드 파이어",
+      "isExclude": false
+    },
+    {
+      "id": 1092,
+      "skillKey": "690559035",
+      "skillName": "쓰로잉 봄 (투척)",
+      "isExclude": false
+    },
+    {
+      "id": 1093,
+      "skillKey": "1705754573",
+      "skillName": "쓰로잉 봄 (투척)",
+      "isExclude": false
+    },
+    {
+      "id": 1094,
+      "skillKey": "HighThief_ThrowingBomb_Tier1A",
+      "skillName": "쓰로잉 봄 (투척)",
+      "isExclude": false
+    },
+    {
+      "id": 1095,
+      "skillKey": "BattleMusician_Arpeggio_Tier1C_Enhanced",
+      "skillName": "연주 : 아르페지오",
+      "isExclude": false
+    },
+    {
+      "id": 1096,
+      "skillKey": "1764527382",
+      "skillName": "포이즌 어택",
       "isExclude": false
     }
   ]

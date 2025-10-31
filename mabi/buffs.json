@@ -1071,6 +1071,286 @@
       "type": "RUNE",
       "category": "무기",
       "isExclude": false
+    },
+    {
+      "id": 233,
+      "buffId": 1040106017,
+      "buffName": "(에픽)검무",
+      "type": "RUNE",
+      "category": "무기",
+      "isExclude": false
+    },
+    {
+      "id": 234,
+      "buffId": 1145735845,
+      "buffName": "(전설)땅울림",
+      "type": "RUNE",
+      "category": "방어구",
+      "isExclude": false
+    },
+    {
+      "id": 235,
+      "buffId": 1670306382,
+      "buffName": "(전설)싸움꾼-2인",
+      "type": "RUNE",
+      "category": "방어구",
+      "isExclude": false
+    },
+    {
+      "id": 236,
+      "buffId": 1419157292,
+      "buffName": "(전설)싸움꾼-1인",
+      "type": "RUNE",
+      "category": "방어구",
+      "isExclude": false
+    },
+    {
+      "id": 237,
+      "buffId": 364317758,
+      "buffName": "(전설)싸움꾼-3인",
+      "type": "RUNE",
+      "category": "방어구",
+      "isExclude": false
+    },
+    {
+      "id": 238,
+      "buffId": 1650151435,
+      "buffName": "수정 꽃잎",
+      "type": "RUNE",
+      "category": "방어구",
+      "isExclude": false
+    },
+    {
+      "id": 239,
+      "buffId": 1697264664,
+      "buffName": "바위 감시자",
+      "type": "RUNE",
+      "category": "방어구",
+      "isExclude": false
+    },
+    {
+      "id": 240,
+      "buffId": 690482864,
+      "buffName": "(화법)오버히트+",
+      "type": "JOB",
+      "category": "화법",
+      "isExclude": false
+    },
+    {
+      "id": 242,
+      "buffId": 1512859939,
+      "buffName": "화려한 응원",
+      "type": "PET",
+      "category": "펫",
+      "isExclude": false
+    },
+    {
+      "id": 243,
+      "buffId": 990361617,
+      "buffName": "(전설)여명+",
+      "type": "RUNE",
+      "category": "방어구",
+      "isExclude": false
+    },
+    {
+      "id": 244,
+      "buffId": 509667344,
+      "buffName": "(전설)지휘관의 각인",
+      "type": "RUNE",
+      "category": "방어구",
+      "isExclude": false
+    },
+    {
+      "id": 245,
+      "buffId": 499069248,
+      "buffName": "(전설)지휘관의 각인",
+      "type": "RUNE",
+      "category": "방어구",
+      "isExclude": false
+    },
+    {
+      "id": 246,
+      "buffId": 678387315,
+      "buffName": "(전설)지휘관의 각인",
+      "type": "RUNE",
+      "category": "방어구",
+      "isExclude": false
+    },
+    {
+      "id": 247,
+      "buffId": 587779927,
+      "buffName": "(전설)지휘관의 각인",
+      "type": "RUNE",
+      "category": "방어구",
+      "isExclude": false
+    },
+    {
+      "id": 248,
+      "buffId": 801953569,
+      "buffName": "(전설)푸른 거목:기타효과",
+      "type": "RUNE",
+      "category": "방어구",
+      "isExclude": false
+    },
+    {
+      "id": 249,
+      "buffId": 847875369,
+      "buffName": "(전설)푸른 거목:스킬 대미지 증가",
+      "type": "RUNE",
+      "category": "방어구",
+      "isExclude": false
+    },
+    {
+      "id": 250,
+      "buffId": 590403486,
+      "buffName": "(전설)황혼",
+      "type": "RUNE",
+      "category": "방어구",
+      "isExclude": false
+    },
+    {
+      "id": 251,
+      "buffId": 1187554075,
+      "buffName": "(전설)쇄도",
+      "type": "RUNE",
+      "category": "방어구",
+      "isExclude": false
+    },
+    {
+      "id": 258,
+      "buffId": 28603455,
+      "buffName": "(전설)들불",
+      "type": "RUNE",
+      "category": "방어구",
+      "isExclude": false
+    },
+    {
+      "id": 259,
+      "buffId": 722617269,
+      "buffName": "(전설)나무 사슴-추가데미지",
+      "type": "RUNE",
+      "category": "방어구",
+      "isExclude": false
+    },
+    {
+      "id": 260,
+      "buffId": 405479686,
+      "buffName": "(전설)검무",
+      "type": "RUNE",
+      "category": "방어구",
+      "isExclude": false
+    },
+    {
+      "id": 261,
+      "buffId": 172694877,
+      "buffName": "(전설)다발사격",
+      "type": "RUNE",
+      "category": "방어구",
+      "isExclude": false
+    },
+    {
+      "id": 262,
+      "buffId": 1174916091,
+      "buffName": "(전설)새벽별",
+      "type": "RUNE",
+      "category": "방어구",
+      "isExclude": false
+    },
+    {
+      "id": 263,
+      "buffId": 1590198662,
+      "buffName": "(전설)아득한 빛",
+      "type": "RUNE",
+      "category": "엠블렘",
+      "isExclude": false
+    },
+    {
+      "id": 264,
+      "buffId": 177692626,
+      "buffName": "(전설)설산",
+      "type": "RUNE",
+      "category": "방어구",
+      "isExclude": false
+    },
+    {
+      "id": 265,
+      "buffId": 1267740128,
+      "buffName": "(듀블)리버레이트",
+      "type": "JOB",
+      "category": "듀플",
+      "isExclude": false
+    },
+    {
+      "id": 266,
+      "buffId": 568697987,
+      "buffName": "(전설)수정 꽃잎",
+      "type": "RUNE",
+      "category": "방어구",
+      "isExclude": false
+    },
+    {
+      "id": 267,
+      "buffId": 1494345085,
+      "buffName": "(듀블)사우전드 니들",
+      "type": "JOB",
+      "category": "듀플",
+      "isExclude": false
+    },
+    {
+      "id": 268,
+      "buffId": 924309397,
+      "buffName": "(전설)나무 사슴",
+      "type": "RUNE",
+      "category": "방어구",
+      "isExclude": false
+    },
+    {
+      "id": 269,
+      "buffId": 1184371696,
+      "buffName": "(전설)갈라진 땅",
+      "type": "RUNE",
+      "category": "방어구",
+      "isExclude": false
+    },
+    {
+      "id": 270,
+      "buffId": 211384737,
+      "buffName": "(카드)선수필승",
+      "type": "ETC",
+      "category": "기타",
+      "isExclude": false
+    },
+    {
+      "id": 271,
+      "buffId": 2116288665,
+      "buffName": "(전설)절개",
+      "type": "RUNE",
+      "category": "방어구",
+      "isExclude": false
+    },
+    {
+      "id": 272,
+      "buffId": 1286100097,
+      "buffName": "(전설)돌격대장",
+      "type": "RUNE",
+      "category": "방어구",
+      "isExclude": false
+    },
+    {
+      "id": 273,
+      "buffId": 1291603214,
+      "buffName": "(음식)얼음 딸기주스",
+      "type": "ETC",
+      "category": "음식",
+      "isExclude": false
+    },
+    {
+      "id": 274,
+      "buffId": 828520307,
+      "buffName": "(전사)투지-받는 대미지 감소",
+      "type": "JOB",
+      "category": "전사",
+      "isExclude": false
     }
   ]
 }
