@@ -3707,6 +3707,12 @@
       "skillKey": "1764527382",
       "skillName": "포이즌 어택",
       "isExclude": false
+    },
+    {
+      "id": 1097,
+      "skillKey": "1082716197",
+      "skillName": "프리징 필드",
+      "isExclude": false
     }
   ]
 }

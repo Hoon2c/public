@@ -1351,6 +1351,22 @@
       "type": "JOB",
       "category": "전사",
       "isExclude": false
+    },
+    {
+      "id": 275,
+      "buffId": 1992220596,
+      "buffName": "(전설)불안정한 힘",
+      "type": "RUNE",
+      "category": "방어구",
+      "isExclude": false
+    },
+    {
+      "id": 276,
+      "buffId": 1703435864,
+      "buffName": "(전설)부서진 하늘",
+      "type": "RUNE",
+      "category": "엠블럼",
+      "isExclude": false
     }
   ]
 }
